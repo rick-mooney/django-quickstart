@@ -49,7 +49,8 @@ add GA_TAG parameter
         'HOST': 'localhost',
         'PORT': '5432',
     }
-}``` 
+}
+``` 
 The NAME variable must match the name of the database you made.
 ## Create base html file
 Create file views.py <br/>
